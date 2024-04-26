@@ -18,6 +18,7 @@ const App = () => {
            <About/>
            <Title subTitle = 'PRODUCTS'  title= 'Explore Our Range of Organic Produce'/>
            <Products/>
+           <Title subTitle = 'TESTIMONIALS'  title= 'What Our Clients Say'/>
 
       </div>
       
