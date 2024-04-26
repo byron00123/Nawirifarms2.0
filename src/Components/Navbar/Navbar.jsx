@@ -8,7 +8,7 @@ export default function Navbar() {
     <img src={logo} alt="" className='logo'/>
     <ul>
       <li>Home</li>
-      <li>Services</li>
+      <li>Programs</li>
       <li>About Us</li>
       <li>Products</li>
       <li>Testimonials</li>

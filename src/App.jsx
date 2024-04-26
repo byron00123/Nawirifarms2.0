@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './Components/Navbar/Navbar'
 import Hero from './Components/Hero/Hero';
+import Programs from './Components/Programs/Programs'
 import './index.css';
 
 const App = () => {
@@ -8,6 +9,7 @@ const App = () => {
     <div>
       <Navbar/>
       <Hero/>
+      <Programs />
  
       
     </div>
