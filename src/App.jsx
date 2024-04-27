@@ -5,6 +5,7 @@ import Programs from './Components/Programs/Programs'
 import Title from './Components/Title/Title';
 import About from './Components/About/About';
 import Products from './Components/Products/Products';
+import Testimonials from './Components/Testimonials/Testimonials';
 import './index.css';
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
            <Title subTitle = 'PRODUCTS'  title= 'Explore Our Range of Organic Produce'/>
            <Products/>
            <Title subTitle = 'TESTIMONIALS'  title= 'What Our Clients Say'/>
+           <Testimonials/>
 
       </div>
       
