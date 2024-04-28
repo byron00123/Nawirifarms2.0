@@ -7,6 +7,7 @@ import About from './Components/About/About';
 import Products from './Components/Products/Products';
 import Testimonials from './Components/Testimonials/Testimonials';
 import './index.css';
+import Contact from './Components/Contact/Contact';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
            <Title subTitle = 'TESTIMONIALS'  title= 'What Our Clients Say'/>
            <Testimonials/>
            <Title subTitle = 'Contact Us'  title= 'Get in Touch'/>
+           <Contact/>
 
       </div>
       
