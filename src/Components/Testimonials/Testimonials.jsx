@@ -40,12 +40,14 @@ function Testimonials() {
               <div className="user-info">
                 <img src={user_1} alt="" />
                 <div>
-                  <h3>John Doe1</h3>
+                  <h3>Esther, Smallholder Farmer</h3>
                   <span>Kisumu, Kenya</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores dignissimos tempore quasi quia provident dolorem cum, est nesciunt at numquam ipsa nisi sequi asperiores? Rerum officiis sunt aliquam! Provident, suscipit.
+              Before Nawiri Farms, I struggled to make ends meet with my small plot of land. Traditional methods left me vulnerable to droughts and low yields.
+               Nawiri offered training in sustainable practices and access to fair markets. Now, with their drip irrigation system and organic pest control techniques,
+               my crops are thriving! I'm finally earning a decent income and feel empowered to build a better future for my family.
               </p>
             </div>
           </li>
@@ -54,12 +56,14 @@ function Testimonials() {
               <div className="user-info">
                 <img src={user_2} alt="" />
                 <div>
-                  <h3>Jane Doe2</h3>
-                  <span>Kisumu, Kenya</span>
+                  <h3>Dr. Mwangi, Environmental Scientist</h3>
+                  <span>Busia, Kenya</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam ut doloribus voluptatem, asperiores, laborum nisi eaque fugit ipsa deleniti libero, architecto rerum soluta quae dolor sit amet consectetur adipisicing elit.
+              Nawiri Farms embodies the true spirit of sustainable agriculture. Their commitment to minimizing water waste and using renewable energy sources is a breath of fresh air. 
+              Their focus on soil health through compost manure fosters biodiversity and protects ecosystems. 
+              Nawiri sets a powerful example for other farming businesses in Kenya, demonstrating that agriculture can thrive in harmony with nature.
               </p>
             </div>
           </li>
@@ -68,12 +72,15 @@ function Testimonials() {
               <div className="user-info">
                 <img src={user_3} alt="" />
                 <div>
-                  <h3>John Doe3</h3>
-                  <span>Kisumu, Kenya</span>
+                  <h3>John, CEO of Agritech Startup</h3>
+                  <span>Nairobi, Kenya</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore magni praesentium ab doloribus, aspernatur deserunt voluptatem? Voluptatem rerum, libero molestias eaque voluptas, architecto, alias consequuntur officia, laborum magni eveniet.
+              We were impressed by Nawiri's vision for Nawiri Tech. Their dedication to using cutting-edge technology to improve agricultural efficiency is inspiring. 
+               Our collaboration allows us to offer Nawiri Farms access to advanced farm management systems, drone services, and AI-powered insights.
+               Together, we're pushing the boundaries of Agritech in Kenya, maximizing food production while minimizing environmental impact
+             
               </p>
             </div>
           </li>
@@ -82,12 +89,15 @@ function Testimonials() {
               <div className="user-info">
                 <img src={user_4} alt="" />
                 <div>
-                  <h3>Jane Doe4</h3>
-                  <span>Kisumu, Kenya</span>
+                  <h3>Sarah, Local Community Leader</h3>
+                  <span>Kitale, Kenya</span>
                 </div>
               </div>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, doloribus, voluptatem rerum, libero molestias eaque voluptas, architecto, alias consequuntur officia, laborum magni eveniet, asperiores, laborum nisi eaque fugit ipsa deleniti?
+              Nawiri Farms isn't just about profit. Their commitment to social responsibility shines through. 
+              They actively partner with our community, providing training opportunities for local youth and creating new jobs.  
+              Their financial inclusion initiatives empower residents with access to vital savings and credit services.
+               Nawiri Farms is a true partner, working with us to build a stronger, more prosperous future for our community.
               </p>
             </div>
           </li>
